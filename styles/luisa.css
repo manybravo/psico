@@ -1,0 +1,61 @@
+@charset "utf-8";
+.card-body.text-center .card-text p {
+    text-align: left;
+    color: #0E0E0E;
+    font-family: "Myriad Pro", "Myriad Pro Cond";
+}
+.super_container .home .home_content {
+    background-color: #F3F598;
+    -webkit-box-shadow: 0px 0px 10px 10px;
+    box-shadow: 0px 0px 10px 10px;
+    background-image: -webkit-linear-gradient(270deg,rgba(244,239,118,0.16) 0%,rgba(240,234,149,0.24) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(244,239,118,0.16) 0%,rgba(240,234,149,0.24) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(244,239,118,0.16) 0%,rgba(240,234,149,0.24) 100%);
+    background-image: linear-gradient(180deg,rgba(244,239,118,0.16) 0%,rgba(240,234,149,0.24) 100%);
+    opacity: 0.7;
+    color: #0B0B0B;
+    margin-bottom: -50px;
+}
+.home .home_content .btn.btn-warning {
+    text-align: center;
+    margin-left: 40%;
+    color: #0A0A0A;
+    font-family: "Myriad Pro", "Myriad Pro Cond";
+    font-size: large;
+    font-weight: bold;
+    text-transform: capitalize;
+
+}
+.home .home_content h2 {
+    font-family: "Myriad Pro", "Myriad Pro Cond";
+}
+.home .home_content h1 {
+    font-family: "Myriad Pro", "Myriad Pro Cond";
+    color: #0A0A0A;
+    font-size: large;
+}
+.card-body.text-center .card-title h2 {
+    color: #030303;
+}
+.footer .container h2 {
+    text-align: center;
+    color: #FFFDFD;
+}
+.container ul li {
+    color: #F8F4F4;
+}
+.container ul li {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+
+}
+.footer .container ul {
+    padding-top: 10px;
+}
+.footer .container hr {
+    color: #F9F5F6;
+}
+.footer .container .align-self-md-center {
+    text-align: center;
+}
